@@ -1,0 +1,5 @@
+[core]
+    remote = mlops_dvc_storage
+['remote "mlops_dvc_storage"']
+    url = gdrive://1HqSdJXu_iiQX7fWKDzkdVWMddYsyqR16
+    gdrive_client_id = 266843442894-2o1boiqigq8i8q9pm25bjnogvjlncoqa.apps.googleusercontent.com
